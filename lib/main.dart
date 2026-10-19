@@ -37,7 +37,7 @@ class DooballApp extends StatelessWidget {
           elevation: 0,
           centerTitle: false,
         ),
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           color: const Color(0xFF171D29),
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(12),
